@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://crisismindz.it.com/sitemap.xml
+Sitemap: https://crisismindz.space/sitemap.xml
