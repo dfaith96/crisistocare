@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.crisistocaretechnologieslimited.it.com/sitemap.xml
+Sitemap: https://www.crisistocaretechnologies.it.com/
